@@ -1,0 +1,20 @@
+[
+{
+  "modid": "Enlightenment",
+  "name": "Enlightenment",
+  "description": "The Enlightenment mod, Knowledge is power!",
+  "version": "0.0.1",
+  "url": "www.github.com/poseidoneros/Enlightenment.git",
+  "updateUrl": "",
+  "authorList": [
+    "poseidoneros"
+  ],
+  "credits": "SharkShoe for artwork",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
